@@ -1,0 +1,11 @@
+SPACE ARKANOID - ALTERAÇÕES
+
+- Menu inicial com título SPACE ARKANOID e botão INICIAR.
+- Removida a tela de apresentação do fluxo inicial.
+- Scene1 e Scene2 mantêm os componentes de gameplay.
+- HUD usa Pontos e Vidas no canto esquerdo.
+- Cada bloco vale 100 pontos.
+- Vitória: THE LIGHT WINS.
+- Derrota: DARK SIDE WINS.
+- Telas finais mantêm somente VOLTAR AO MENU.
+- Controle da barra: A/D, setas esquerda/direita e mouse.
